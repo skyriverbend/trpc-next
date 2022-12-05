@@ -1,6 +1,6 @@
 *.log
 .DS_Store
-dist
+# dist
 .next
 .turbo
 .vercel
